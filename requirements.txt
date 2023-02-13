@@ -1,2 +1,4 @@
 pandas-profiling
 flaml
+pycaret
+shap
